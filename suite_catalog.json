@@ -1,4 +1,4 @@
-{
+OR WATCH{
   "version": 2,
   "suite_name": "CYBERINE Suite",
   "tools": [
@@ -13,7 +13,7 @@
     },
     {
       "id": "monitor",
-      "name": "Sensor-Watch",
+      "name": "SENSOR WATCH",
       "subtitle": "Privacy Monitor App",
       "summary": "See which apps use your microphone and camera, and what they send.",
       "package": "com.cyberinellc.a02",
