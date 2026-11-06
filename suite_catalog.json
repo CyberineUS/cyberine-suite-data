@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "suite_name": "CYBERINE Suite",
+  "tools": [
+    {
+      "id": "jamr",
+      "name": "SCAM-JAMR",
+      "subtitle": "Call Protection App",
+      "summary": "Real-time call protection that learns you.",
+      "package": "com.cyberinellc.sj",
+      "published": true,
+      "counts": ["Call History", "Whitelisted", "SpamListed", "Blocklisted"]
+    },
+    {
+      "id": "monitor",
+      "name": "Sensor-Watch",
+      "subtitle": "Privacy Monitor App",
+      "summary": "See which apps use your microphone and camera, and what they send.",
+      "package": "com.cyberinellc.a02",
+      "published": false,
+      "counts": ["Sensor uses", "Matches", "Flagged", "Bypassed"]
+    }
+  ]
+}
