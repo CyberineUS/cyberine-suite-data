@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "suite_name": "CYBERINE Suite",
+  "suite_name": "CYBERINE Apps Toolkit",
   "tools": [
     {
       "id": "jamr",
@@ -9,11 +9,13 @@
       "summary": "Real-time call protection that learns you.",
       "package": "com.cyberinellc.sj",
       "published": true,
-      "counts": ["Call History", "Whitelisted", "SpamListed", "Blocklisted"]
+      "counts": ["Call History", "Whitelisted", "SpamListed", "Blocklisted"],
+      "version_name": "1.0",
+      "version_code": 11
     },
     {
       "id": "monitor",
-      "name": "SENSOR WATCH",
+      "name": "Sensor Watch",
       "subtitle": "Privacy Monitor App",
       "summary": "See which apps use your microphone and camera, and what they send.",
       "package": "com.cyberinellc.a02",
