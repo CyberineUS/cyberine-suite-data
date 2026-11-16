@@ -11,7 +11,8 @@
       "published": true,
       "counts": ["Call History", "Whitelisted", "SpamListed", "Blocklisted"],
       "version_name": "1.0",
-      "version_code": 11
+      "version_code": 11,
+      "icon_version": 1
     },
     {
       "id": "monitor",
@@ -19,8 +20,11 @@
       "subtitle": "Privacy Monitor App",
       "summary": "See which apps use your microphone and camera, and what they send.",
       "package": "com.cyberinellc.a02",
-      "published": false,
-      "counts": ["Sensor uses", "Matches", "Flagged", "Bypassed"]
+      "published": true,
+      "counts": ["Sensor uses", "Matches", "Flagged", "Bypassed"],
+      "version_name": "1.0.3",
+      "version_code": 4,
+      "icon_version": 1
     }
   ]
 }
