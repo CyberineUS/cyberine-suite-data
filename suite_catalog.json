@@ -24,6 +24,8 @@
       "counts": ["Sensor uses", "Matches", "Flagged", "Bypassed"],
       "version_name": "1.0.3",
       "version_code": 4,
+      "model_label": "v1.1-20261124-0730",
+      "model_version": 1,
       "icon_version": 1
     }
   ]
